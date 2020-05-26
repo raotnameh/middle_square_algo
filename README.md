@@ -1,4 +1,4 @@
-**Tested on ubuntu 18.04 and python 2.7.15**
+*Tested on ubuntu 18.04 and python 2.7.15
 
 [Blog](https://svijaykoushik.github.io/blog/2019/10/04/three-awesome-ways-to-generate-random-number-in-javascript/)
 
